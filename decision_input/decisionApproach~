@@ -1,0 +1,5 @@
+<decisionApproach>
+	<name>UtilityOrientedApproach</name>
+	<utilityFunction>CobbDouglas</utilityFunction>
+</decisionApproach>
+

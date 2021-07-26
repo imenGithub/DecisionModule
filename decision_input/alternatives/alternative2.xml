@@ -1,0 +1,24 @@
+<alternative id="a2">
+   <decisionParameters>
+     <decisionParameter>
+       <name>RAM</name>
+       <value>4</value>
+       <cost>40</cost>
+     </decisionParameter>
+
+     <decisionParameter>
+       <name>CPU</name>
+       <value>2</value>
+       <cost>35</cost>
+     </decisionParameter>
+
+     <decisionParameter>
+       <name>Battery</name>
+       <value>3</value>
+       <cost>30</cost>
+     </decisionParameter>
+  </decisionParameters>
+</alternative>
+
+
+

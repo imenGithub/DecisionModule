@@ -1,0 +1,65 @@
+<alternatives>
+
+<alternative>
+   <id>a1</id>
+   <decisionParameters>
+     <decisionParameter>
+        <name>RAM</name>
+        <value>2</value>
+     </decisionParameter>
+
+     <decisionParameter>
+       <name>CPU</name>
+       <value>1</value>
+     </decisionParameter>
+
+     <decisionParameter>
+       <name>Battery</name>
+       <value>3</value>
+     </decisionParameter>
+   </decisionParameters>
+</alternative>
+
+<alternative>
+   <id>a2</id>
+   <decisionParameters>
+     <decisionParameter>
+       <name>RAM</name>
+       <value>3</value>
+     </decisionParameter>
+
+     <decisionParameter>
+       <name>CPU</name>
+       <value>2</value>
+     </decisionParameter>
+
+     <decisionParameter>
+       <name>Battery</name>
+       <value>2</value>
+     </decisionParameter>
+   </decisionParameters>
+</alternative>
+
+<alternative>
+   <id>a3</id>
+   <decisionParameters>
+     <decisionParameter>
+       <name>RAM</name>
+       <value>4</value>
+     </decisionParameter>
+
+     <decisionParameter>
+       <name>CPU</name>
+       <value>2</value>
+     </decisionParameter>
+
+     <decisionParameter>
+       <name>Battery</name>
+       <value>3</value>
+     </decisionParameter>
+  </decisionParameters>
+</alternative>
+
+
+
+</alternatives>
